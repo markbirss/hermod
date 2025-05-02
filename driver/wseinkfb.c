@@ -18,7 +18,7 @@
 #include <linux/pagemap.h>
 #include <linux/device.h>
 
-#include "fb_waveshare_eink.h"
+#include "wseinkfb.h"
 
 #define WS_SW_RESET								0x12
 #define WS_DISPLAY_UPDATE_CONTROL_1				0x21
